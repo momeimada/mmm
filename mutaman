@@ -1,13 +1,13 @@
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
 https://stream.wpbond.com/live/imamalitv.m3u8
 
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/cropped-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
 http://190.2.154.204:8080/tdn/tdn/778.ts
 
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",العقيلة
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://scontent.fgse3-1.fna.fbcdn.net/v/t39.30808-6/305440825_190235513367334_6403583890999712957_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cr84pk_VWPEQ7kNvgHSGIyq&_nc_ht=scontent.fgse3-1.fna&oh=00_AYBgNjbOrVVH3P45gcjHmc18Vph5CTc1rNjlw2d-gMLzkA&oe=6694567B" tvg-country="IR" tvg-url=""group-title="IRAQ",العقيلة
 http://190.2.154.204:8080/tdn/tdn/772.ts
 
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",صوت العقيلة
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://i.ytimg.com/vi/xv1cilweULY/hqdefault.jpg" tvg-country="IR" tvg-url=""group-title="IRAQ",صوت العقيلة
 http://m3u.lol:80/live/14085373777477/81292994349831/326500.m3u8
 
 
