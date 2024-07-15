@@ -88,8 +88,7 @@ https://nl.livekadeh.com/hls2/alwilayah_tv_high.m3u8
 
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
-
+https://ir14.livekadeh.com/hls2/almaaref_high.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" tvg-country="IR" tvg-url="" group-title="IRAQ",المنار
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 
