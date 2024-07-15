@@ -19,7 +19,7 @@ http://190.2.154.204:8080/tdn/tdn/772.ts
 https://nl.livekadeh.com/hls2/saoutalaqila.m3u8
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alshaaer-tv-iq.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الشعائر
 http://149.62.177.103:8000/play/a045
-
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mahdi-satellite-channel-kw.png" tvg-country="IR" tvg-url=""group-title="IRAQ",Alnajaf Alashraf TV
 http://149.18.45.21:8000/play/a02z/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/K9tr4a4dQb-yMy6grUlPORiNd7xz4BmaAFluQn3hlhss-A8NVr7jgn01TZ7KIXJ3cKzsUqCsQw=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",الطليعة
