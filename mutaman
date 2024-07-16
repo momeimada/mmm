@@ -1,7 +1,7 @@
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
 http://fennec.tcode.cc:8080/live/671193600966/378417029480/114443.ts
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV 2
-http://sf.bleutv.net:8080/live/badara11/172019312310877/114443.ts?
+http://sf.bleutv.net:8080/live/badara11/172019312310877/114443.ts
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
 http://149.62.177.103:8000/play/a01b
