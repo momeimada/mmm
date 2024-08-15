@@ -7,7 +7,7 @@ https://stream.wpbond.com/live/imamalitv.m3u8
 http://149.62.177.103:8000/play/a01b
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala 2
-http://95.216.180.111:1935/live/45/index.m3u8
+http://149.62.177.103:8000/play/a043
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/cropped-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
 http://190.2.154.204:8080/tdn/tdn/778.ts
