@@ -7,10 +7,10 @@ https://stream.wpbond.com/live/imamalitv.m3u8
 http://149.62.177.103:8000/play/a01b
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala 2
-http://149.62.177.103:8000/play/a043
+http://95.216.180.111:1935/live/45/index.m3u8
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/cropped-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
-http://190.2.154.204:8080/tdn/tdn/778.ts
+http://149.62.177.103:8000/play/a043
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://scontent.fgse3-1.fna.fbcdn.net/v/t39.30808-6/305440825_190235513367334_6403583890999712957_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cr84pk_VWPEQ7kNvgHSGIyq&_nc_ht=scontent.fgse3-1.fna&oh=00_AYBgNjbOrVVH3P45gcjHmc18Vph5CTc1rNjlw2d-gMLzkA&oe=6694567B" tvg-country="IR" tvg-url=""group-title="IRAQ",العقيلة
 http://190.2.154.204:8080/tdn/tdn/772.ts
