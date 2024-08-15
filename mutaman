@@ -30,7 +30,7 @@ https://ch14.tv/live/ch4teen1/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alkafeel.net/news/images/main/60965a71a233a2339b46f7879f405308.jpg" tvg-country="IR" tvg-url=""group-title="IRAQ",الكربلائية
-http://sf.bleutv.net:8080/badara11/172019312310877/114463
+http://154.58.202.131:8000/play/a09b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen quran
 http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
