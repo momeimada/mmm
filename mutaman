@@ -6,8 +6,14 @@ https://stream.wpbond.com/live/imamalitv.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
 http://149.62.177.103:8000/play/a01b
 
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala 2
-http://95.216.180.111:1935/live/45/index.m3u8
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ", Quran 
+https://ktvlive.online/stream/hls/ch1.m3u8
+
+
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Extra
+https://ktvlive.online/stream/hls/ch2.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/cropped-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
 http://149.62.177.103:8000/play/a043
@@ -108,17 +114,19 @@ http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 http://95.216.180.111:1935/live/118/index.m3u8
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",Imam Hussein TV 2
-
-https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
-
-#EXTINF:0  tvg-language="Arabic" tvg-logo="https://alkafeel.tv/build/assets/logo.dfe29060.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الكفيل
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 
+
+
+#EXTINF:0  tvg-language="Arabic" tvg-logo="https://alkafeel.tv/build/assets/logo.dfe29060.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الكفيل
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSyN82JQG23lY1w7ZzDK-roGNElrFSPjqIlTYXLtg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الامام الرضا
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala extra
+http://95.216.180.111:1935/live/45/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="IRAQ",العالم
 https://live2.alalam.ir/alalam.m3u8
