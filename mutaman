@@ -300,7 +300,7 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="IRAQ",Rotana Cinema Egypt
 http://154.54.220.67:34780/play/a06g
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="IRAQ",Rotana Cinema KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+http://149.62.177.103:8000/play/a02x
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="IRAQ",Rotana Classic
 http://154.54.220.67:34780/play/a06i
 #EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="IRAQ",Rotana Comedy
