@@ -192,6 +192,12 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-news.tv/_next/image?url=https%3A%2F%2Finews.fra1.digitaloceanspaces.com%2Finews%2Finews%2Fnavbar_logo%2F750feab7-3f3a-49c6-b0bb-4c940fd83dd3.png&w=256&q=75" group-title="IRAQ",INEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
 
+#EXTINF:-1,1 IRAQ TV
+http://149.62.177.103:8000/play/a03w
+
+#EXTINF:-1,Albaghdadiya
+http://149.62.177.103:8000/play/a046
+
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" tvg-country="IR" tvg-url="" group-title="IRAQ",1TV
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist_w1594571531.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ZMKMi4ex_T-mneCsMO4vAnfXN2UcUSD1SNjmTPeVe-QO2NbGZP8CiYpWrzipbRZzklXhLSoopZ8=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",عراق المستقبل
