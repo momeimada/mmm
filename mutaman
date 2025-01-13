@@ -113,7 +113,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 https://streamer3.premio.link/alqamar/playlist.m3u8
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الموسوي
-https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
+https://6250d12b67a59.streamlock.net/live/_definst_/smil:abr.smil/playlist.m3u8
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSmasiHJMNPLOQMMdUuh-jotsBg80yVn3Qfys5HUg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الثقلين
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
