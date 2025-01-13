@@ -110,7 +110,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://i1.sndcdn.com/avatars-000321133036-pmaim7-t240x240.jpg" tvg-country="IR" tvg-url=""tvg-id="ext" group-title="IRAQ",القمر
-https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
+https://streamer3.premio.link/alqamar/playlist.m3u8
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://play-lh.googleusercontent.com/tzr6B3xjOC64qwFtZ3aukl2xN4GdU_oZsgi0W7b_VH8zrskGOuDxJxT-cOCRQnfS44o" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الموسوي
 https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
