@@ -9,7 +9,7 @@ http://149.62.177.103:8000/play/a01b
 https://ktvlive.online/stream/hls/ch1.m3u8
 
 
-#EXTINF:-1,Karbala Documentary HD
+#EXTINF:-1,tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Documentary HD
 http://149.62.177.103:8000/play/a01h
 
 
@@ -40,7 +40,7 @@ http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRFdzIm5WWOWMmvsqBFE4nBt6KZfB2TYBsUzjnA=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",المعارف
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 
-#EXTINF:-1,Al-Aqila TV
+#EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Al-Aqila TV
 http://149.62.177.103:8000/play/a03z
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://static1.tgstat.ru/channels/_0/58/58e44d01662b9d86467ca6195ffb903b.jpg" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",البينات
@@ -63,10 +63,10 @@ http://95.216.180.111:1935/live/36/index.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="IRAQ",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1,Saudi ch for Quran HD
+#EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Saudi ch for Quran HD
 http://149.62.177.103:8000/play/a00y
 
-#EXTINF:-1,Misr Quran Kareem
+#EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Misr Quran Kareem
 http://149.62.177.103:8000/play/a08i
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://www.alnaeem-tv.iq/wp-content/uploads/2022/04/logo.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",النعيم
