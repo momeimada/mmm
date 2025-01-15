@@ -66,6 +66,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Saudi ch for Quran HD
 http://149.62.177.103:8000/play/a00y
 
+#EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Quran Iran
+https://cdn-bshtcfb1.telewebion.com:443/ek/quran/live/1080p/index.m3u8
+
 #EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Misr Quran Kareem
 http://149.62.177.103:8000/play/a08i
 
