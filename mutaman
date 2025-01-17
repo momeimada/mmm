@@ -1,6 +1,6 @@
-#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
-http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
 
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen
+https://ch14.tv/live/ch4teen1/playlist.m3u8
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
 http://149.62.177.103:8000/play/a01b
@@ -8,9 +8,8 @@ http://149.62.177.103:8000/play/a01b
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ", Quran 
 https://ktvlive.online/stream/hls/ch1.m3u8
 
-
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Documentary HD
-http://149.62.177.103:8000/play/a01h
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://watch.toughprotection.com/uploads/tv_image/sm/imam-ali-tv.jpeg" tvg-country="IR" tvg-url=""group-title="IRAQ",Imam Ali TV
+http://63b03f7689049.streamlock.net:1935/live/120/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/cropped-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",الانوار
@@ -22,8 +21,6 @@ http://149.62.177.103:8000/play/a045
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://lh3.googleusercontent.com/proxy/wjfaudSzWrprX7UFB_DBtvFqUn0m4zukUAhdyUYRZMJ6T9uTGSGMSK7_2uq4o0_0rRSWdTEeQMqzztaA-oMt5bzKxRO5-ftlkFqBbMjwLeE2fcakOaNAmA" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",الولاية
 https://nl.livekadeh.com/hls2/alwilayah_tv_high.m3u8
 
-#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen
-https://ch14.tv/live/ch4teen1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen quran
 http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
@@ -66,11 +63,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Saudi ch for Quran HD
 http://149.62.177.103:8000/play/a00y
 
-#EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Quran Iran
-https://cdn-bshtcfb1.telewebion.com:443/ek/quran/live/1080p/index.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-url="" group-title="IRAQ",Misr Quran Kareem
 http://149.62.177.103:8000/play/a08i
+
+#EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala Documentary HD
+http://149.62.177.103:8000/play/a01h
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://www.alnaeem-tv.iq/wp-content/uploads/2022/04/logo.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",النعيم
 https://nl.livekadeh.com/hls2/alnaeem_high.m3u8
@@ -196,10 +194,10 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-news.tv/_next/image?url=https%3A%2F%2Finews.fra1.digitaloceanspaces.com%2Finews%2Finews%2Fnavbar_logo%2F750feab7-3f3a-49c6-b0bb-4c940fd83dd3.png&w=256&q=75" group-title="IRAQ",INEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
 
-#EXTINF:-1,1 IRAQ TV
+#EXTINF:-1 group-title="IRAQ",العراقية,1 IRAQ TV
 http://149.62.177.103:8000/play/a03w
 
-#EXTINF:-1,Albaghdadiya
+#EXTINF:-1 group-title="IRAQ",العراقية,Albaghdadiya
 http://149.62.177.103:8000/play/a046
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://alawla.tv/templates/Default/images/logo.png" tvg-country="IR" tvg-url="" group-title="IRAQ",1TV
